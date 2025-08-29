@@ -52,6 +52,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin2303&layout=compact&theme=radical" alt="langs" height="150">
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pravin2303&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pravin2303&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 ---
 
 ## 🌐 Connect with Me  
