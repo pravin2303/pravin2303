@@ -32,9 +32,9 @@
 
 ## 📂 Featured Projects
 
-- 🔐 [**Secure Cloud File Storage with Zero-Knowledge Encryption**](#)  
-- 🤖 [**AI Resume Shortlisting System**](#)  
-- 📝 [**Smart Meeting Summarizer**](#)  
+- 🔐 [**Secure Cloud File Storage with Zero-Knowledge Encryption**](https://github.com/pravin2303/secure-cloud-storage)  
+- 🤖 [**TODO REACT**](https://github.com/pravin2303/todo-react)  
+- 📝 [**PhishGuard Brower Extension**](https://github.com/pravin2303/PhishGuard-Browser-Extension)  
 
 ➡️ Explore all in my [repositories](https://github.com/pravin2303?tab=repositories)
 
@@ -55,8 +55,8 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://www.linkedin.com/in/pravin-m-67a3a932a/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mpravin519@example.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)  
 
 ---
