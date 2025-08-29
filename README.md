@@ -3,9 +3,11 @@
 
 # 👋 Hi, I'm Pravin!  
 
-🎓 3rd Year Computer Science Engineering Student (YOP 2026)  
-💡 Exploring Cloud ☁️ | Full Stack Development 🌐 | AI & DevOps ⚙️  
-🔭 Currently working on: **Secure Cloud File Storage with Zero-Knowledge Encryption**  
+## 👨‍💻 About Me
+🎓 Final Year Computer Science Engineering Student  
+☁️ Passionate about Cloud, DevOps, and Full Stack Development  
+🚀 Exploring AI projects and contributing to open-source  
+💡 Goal: Becoming a Cloud/DevOps Engineer
 🌱 Learning: **React, Node.js, MongoDB, AWS, Kubernetes**  
 ⚡ Motto: *"Always learning, always building."*  
 
