@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Github Banner](https://i.ibb.co/qM3cMRy/github-banner.png)
+![Github Banner]([https://github.com/pravin2303/pravin2303/blob/main/github-banner.png])
 
 # 👋 Hi, I'm Pravin!  
 
