@@ -43,12 +43,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pravin2303&show_icons=true&theme=react-dark" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=pravin2303&show_icons=true&theme=radical" alt="stats" height="165">
 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin2303&layout=compact&theme=react-dark" alt="langs" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin2303&layout=compact&theme=radical" alt="langs" height="150">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravin2303&theme=tokyo-night" alt="activity graph"/>
