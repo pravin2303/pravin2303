@@ -1,16 +1,16 @@
-<!-- Banner -->
-![Github Banner](https://github.com/pravin2303/pravin2303/blob/main/github-banner.png)
+
+██████╗ ██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██║████╗  ██║
+██████╔╝██████╔╝███████║██║   ██║██║██╔██╗ ██║
+██╔═══╝ ██╔══██╗██╔══██║╚██╗ ██╔╝██║██║╚██╗██║
+██║     ██║  ██║██║  ██║ ╚████╔╝ ██║██║ ╚████║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 
 <h1 align="center">Hi 👋, I'm Pravin</h1>
 <h3 align="center">Cloud ☁️ & Full Stack 💻 Enthusiast</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud%20&%20Full%20Stack%20Enthusiast-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
-```bash
-> Hello, I’m Pravin  
-> Role: Cloud & Full Stack Enthusiast  
-> Learning: DevOps | AI | Backend  
-> Motto: Code. Deploy. Scale. Repeat.
 
 ## 👨‍💻 About Me
 🎓 Final Year Computer Science Engineering Student  
