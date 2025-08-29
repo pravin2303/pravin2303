@@ -36,7 +36,7 @@
 - 🤖 [**AI Resume Shortlisting System**](#)  
 - 📝 [**Smart Meeting Summarizer**](#)  
 
-➡️ Explore all in my [repositories](https://github.com/your-username?tab=repositories)
+➡️ Explore all in my [repositories](https://github.com/pravin2303?tab=repositories)
 
 ---
 
